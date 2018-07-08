@@ -1,0 +1,11 @@
+main: mc.minigame.game.Main
+name: MinigamePractice
+version: 1.0
+author: Kulkinz
+description: An Minigame Practice
+commands:
+  mycommand:
+    description: An example command
+    usage: /mycommand
+    permission: minigamepractice.mycommand
+    permission-message: You don't have the minigamepractice.mycommand permission.
